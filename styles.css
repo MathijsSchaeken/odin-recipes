@@ -1,0 +1,22 @@
+/* ------------- CSS -------------- */
+
+/* Generic classes */
+
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.teal {
+    background-color: teal;
+    color: whitesmoke;
+}
+
+.lavender {
+    background-color: lavender;
+    color: black;
+}
+
+.recipe-image {
+    height: auto;
+    width: 800px;
+}
